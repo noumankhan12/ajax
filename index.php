@@ -15,7 +15,7 @@
 
 <body>
     <div class="container">
-        <h1 class="mb-4">Product Information</h1>
+        <h1 class="mb-4">Product Information using ajax</h1>
         <div class="mb-4">
             <h2>Add New Product</h2>
             <form id="productForm" action="#" method="post">
